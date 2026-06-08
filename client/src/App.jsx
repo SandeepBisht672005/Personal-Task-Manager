@@ -92,7 +92,7 @@ export default function App() {
     <div className={styles.page}>
       <header className={styles.header}>
         <h1 className={styles.logo}>✅ TaskFlow</h1>
-        <p className={styles.subtitle}>Simple. Clean. Done.</p>
+       <p className={styles.subtitle}>Stay Organized. Stay Productive.</p>
       </header>
 
       <main className={styles.main}>
